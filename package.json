@@ -1,0 +1,9 @@
+{
+  "name": "letsvim",
+  "version": "1.0.0",
+  "description": "let's vim",
+  "main": "index.js",
+  "repository": "https://github.com/yofine/letsvim.git",
+  "author": "yofine",
+  "license": "MIT"
+}
