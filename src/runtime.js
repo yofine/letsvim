@@ -1,5 +1,4 @@
 /*
-VIM Runtime 
-
+VIM Runtime
 */
 
